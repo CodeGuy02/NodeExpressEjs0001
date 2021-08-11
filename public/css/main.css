@@ -1,0 +1,19 @@
+body {
+				
+	text-align: center;	
+	background-image: radial-gradient(green, 
+darkgreen);
+	color: goldenrod;
+	text-shadow: 1px 1px 5px black; 
+}
+
+h1 {
+	color: goldenrod;
+	text-shadow: 2px 2px 5px black;
+
+}
+
+img {
+	box-shadow: 2px 2px 5px black;
+	border-radius: 20px;
+}
